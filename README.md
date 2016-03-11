@@ -14,4 +14,4 @@ from op_patch.excel import load_workbook as patch_load_workbook
 load_workbook = patch_load_workbook
 ```
 
-Thanks to [Sergey Pikhovkin](https://gist.github.com/pikhovkin) for her first version of the [patch](https://gist.github.com/pikhovkin/543709a2e2827d9c345d).
+Thanks to [openpyxl](https://openpyxl.readthedocs.org/en/2.3.3/) team and thanks to [Sergey Pikhovkin](https://gist.github.com/pikhovkin) for her first version of the [patch](https://gist.github.com/pikhovkin/543709a2e2827d9c345d).
